@@ -1,0 +1,1 @@
+# home-assistant-paralelo-virtual-cenas
